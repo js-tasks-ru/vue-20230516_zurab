@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-
+FarMenu.ini
 
 # local env files
 .env.local
